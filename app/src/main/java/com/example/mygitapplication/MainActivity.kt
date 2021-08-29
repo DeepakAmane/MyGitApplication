@@ -34,5 +34,7 @@ class MainActivity : AppCompatActivity() {
 
 
         // added dummy text 1
+        // added dummy text 2
+
     }
 }
